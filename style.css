@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(62, 149, 179);
+}
+
+h1{
+    text-transform: uppercase;
+    color: white;
+}
+
+.monGride{
+    grid-template-rows: 1em 1em 1em;
+}
+
+.child1{
+    background-color: grey;
+    grid-row-start: 1;
+}

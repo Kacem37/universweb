@@ -7,11 +7,8 @@ h1{
     color: white;
 }
 
-.monGride{
-    grid-template-rows: 1em 1em 1em;
-}
 
 .child1{
+    margin-top: 10%;
     background-color: grey;
-    grid-row-start: 1;
 }
